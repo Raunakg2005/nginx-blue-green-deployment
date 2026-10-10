@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+npm-debug.log*
+
+# Environment local overrides
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime logs
+*.log
+!traffic_audit.log
